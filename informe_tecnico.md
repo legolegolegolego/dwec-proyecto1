@@ -1,7 +1,3 @@
-<!-- vista previa ctrl-k + v -->
-<!-- publicar en github para entregar -->
-
-
 *León Gómez, Sergio*
 
 # Proyecto DWEC: Aplicación web (Informe técnico)
